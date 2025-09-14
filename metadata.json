@@ -2,12 +2,13 @@
   "name": "Blitz Bison",
   "symbol": "BBLITZZ",
   "description": "Blitz Bison (BBLITZZ) is a community-driven meme token charging across Solana — strong like a bison, fast like lightning.",
-  "image": "https://raw.githubusercontent.com/blitzbison1000000000/blitz-bison-assets/main/200x200%20logo%20bblitzz.png",
+  "image": "https://raw.githubusercontent.com/blitzbison1000000000/blitz-bison-assets/main/logo.png",
   "external_url": "https://www.bblitzz.com",
   "extensions": {
     "website": "https://www.bblitzz.com",
     "twitter": "https://x.com/BisonBlitz",
     "telegram": "https://t.me/BlitzBisonBBLITZZCommunity",
     "linktree": "https://linktr.ee/BBLITZZ"
-  }
+  },
+  "tags": ["meme", "community", "solana"]
 }
